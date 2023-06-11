@@ -1,76 +1,39 @@
+# Inventory_Tracking_System_Web_App
 
+The purpose of this project is to facilitate inventory tracking, prevent excess inventory,
+identify needs, and streamline material and asset management in factories, production areas
+and areas where inventories are used collectively.
 
+Firstly, this web project is designed to facilitate material and asset management, enabling managers
+to effectively track inventory.The system generates unique QR codes for each asset or material in the
+inventory, allowing for the identification of each item. QR codes can be scanned through the website,
+enabling users to quickly and easily associate items with their respective information.
 
+The project includes a database where detailed information about assets and materials is
+stored, ensuring that this information is kept up-to-date and facilitating tracking of
+inventory movements. The system tracks the dates and other relevant details of each asset
+or material, ensuring the accuracy and currency of the inventory. Additionally, it monitors material
+usage, including purchases and current usage, providing managers with information about the inventory.
 
+The reporting feature provides detailed reports on inventory movements, allowing users to monitor changes
+and take measures to increase efficiency. QR code-integrated inventory tracking system provides businesses
+the opportunity to optimize inventory management and effectively utilize resources, resulting in time and cost savings.
+This web system was implemented by using .NET and Vue.js, with PostgreSQL database.
 
+# Login Page
 
-#  Sakai Admin Template for Vue  
- 
-### Live Preview
- 
-Visit [Sakai Vue](https://www.primefaces.org/sakai-vue) website for a live preview. 
- 
-### Getting Started
-Sakai is an application template for Vue based on the [Vue CLI](https://cli.vuejs.org/) that provides out-of-the-box standard
-tooling for Vue projects. To get started, clone this repository from GitHub and install the dependencies with npm or yarn.
-                
-```
-npm install
-```
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/c0eebdbe-85f5-41bc-a981-eb7dba6a8c34)
 
-or
+# Admin Home Page
 
-```
-yarn
-```
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/fbaa1b25-afb2-4549-abe1-a2025ecd0c02)
 
-Next step is running the application using the serve script and navigate to **http://localhost:8080/** to view the application.
-That is it, you may now start with the development of your application using the Sakai template.</p>
+# Admin Inventory Info Page
 
-```
-npm run serve
-```
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/96162c4b-17ea-4fdc-acc8-3ea85f95b358)
 
-### Vue CLI Scripts
-Following commands are derived from create-app-app.
-```
-"npm run serve": Starts the development server
-"npm run build": Builds the application for deployment.
-"npm run lint": Executes the lint checks.
-"npm run test:unit": Runs the tests.
-```
+# User Page Use Example
 
-### Structure
-Sakai consists of 2 main parts; the application layout and the resources. **App.vue** inside src folder is the main component containing the template for the base layout whereas required resources such as SASS structure for the layout are placed inside the **src/assets/** folder.</p>
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/27e0e4f0-df30-46b8-bf21-1574c8f33030)
 
-### Layout Components
-Main layout is the template of the **App.vue**, it is divided into a couple of child components such as topbar, menu and footer. Here is template of the
-**App.vue** component that implements the logic such as menu state, layout modes and so on.
-
-### Menu
-Menu is a separate component defined in **AppMenu.vue** file based on PrimeVue MenuModel API. In order to define the menuitems,
-navigate to data section of **App.vue** file and define your own model as a nested structure using the **menu** property.
-
-### Dependencies
-Dependencies of Sakai are listed below and needs to be added to package.json.
-
-```json
-{
-    "primevue": "~3.7.1",
-    "primeicons": "~4.1.0",
-    "primeflex": "~3.0.0",
-}
-```
-
-### PrimeVue Theme
-Sakai uses the free Saga, Arya and Vela themes which are distributed within PrimeVue, however it can be used with any PrimeVue theme as well such as material, tailwind and bootstrap as layout colors are derived from the theme used via CSS variables.
-
-### SASS Variables
-In case you'd like to customize the layout variables, open **_variables.scss** file under src/layout folder. The list is pretty short as majority of the variables are derived from the PrimeVue theme being used.
-
-**src/assets/_variables.scss**
-```css
-$fontSize:1rem;
-$borderRadius:12px;
-$transitionDuration:.2s;
-```
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/e2d8fd03-99d9-4dbf-88da-dbfeab24006f)
