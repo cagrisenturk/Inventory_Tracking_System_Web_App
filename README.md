@@ -22,18 +22,18 @@ This web system was implemented by using .NET and Vue.js, with PostgreSQL databa
 
 # Login Page
 
-![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/c0eebdbe-85f5-41bc-a981-eb7dba6a8c34)
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/0ce848a9-4a54-405a-a21b-f713b6d944a1)
 
 # Admin Home Page
 
-![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/fbaa1b25-afb2-4549-abe1-a2025ecd0c02)
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/ac3adac8-7cda-4299-ba43-078d2a4811bc)
 
 # Admin Inventory Info Page
 
-![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/96162c4b-17ea-4fdc-acc8-3ea85f95b358)
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/c089047c-b157-4ffa-884b-25ac352833e1)
 
 # User Page Use Example
 
-![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/27e0e4f0-df30-46b8-bf21-1574c8f33030)
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/ae5a132a-ced6-48c7-a44e-cff5aab1b0dc)
 
-![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/e2d8fd03-99d9-4dbf-88da-dbfeab24006f)
+![image](https://github.com/cagrisenturk/Inventory_Tracking_System_Web_App/assets/74299306/a873b1da-b7ea-4345-8733-c46acf6701b4)
